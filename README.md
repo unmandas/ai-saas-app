@@ -1,0 +1,1 @@
+This is an AI SAAS APP created with the help of Next Js
